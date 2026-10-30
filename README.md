@@ -81,17 +81,17 @@ Implementations of core numerical methods, organized by topic.
 | Project | Description |
 | --- | --- |
 | [FPGA-Digital-Voting-Machine](https://github.com/Dibbo008/FPGA-Digital-Voting-Machine) | A digital voting machine implemented in Verilog for FPGA deployment. |
-| [28-BIT-CPU-Design](https://github.com/Dibbo008/28-BIT-CPU-Design) | Design of a custom 28-bit CPU, covering its architecture and datapath. |
+| [28-BIT-CPU-Design](https://github.com/Dibbo008/28-BIT-CPU-Design) | A custom 28-bit CPU design project. |
 
 ### AI, Web and Games
 
 | Project | Language | Description |
 | --- | --- | --- |
 | [Zippy-AI-Assistant](https://github.com/Dibbo008/Zippy-AI-Assistant) | JavaScript | An AI-powered assistant application. |
-| [AiZen-AI-RnC](https://github.com/Dibbo008/AiZen-AI-RnC) | JavaScript | An AI-driven application for resume and career tooling. |
-| [PiXEE-AI-Bot](https://github.com/Dibbo008/PiXEE-AI-Bot) | CSS | An AI bot with a web-based interface. |
-| [Votebox-EVM](https://github.com/Dibbo008/Votebox-EVM) | JavaScript | A software implementation of an electronic voting machine. |
-| [COBRA.C-Game](https://github.com/Dibbo008/COBRA.C-Game) | C | A game written in C, focused on core game logic. |
+| [AiZen-AI-RnC](https://github.com/Dibbo008/AiZen-AI-RnC) | JavaScript | An AI-driven application built with JavaScript. |
+| [PiXEE-AI-Bot](https://github.com/Dibbo008/PiXEE-AI-Bot) | CSS | An AI bot project. |
+| [Votebox-EVM](https://github.com/Dibbo008/Votebox-EVM) | JavaScript | An electronic voting machine project built with JavaScript. |
+| [COBRA.C-Game](https://github.com/Dibbo008/COBRA.C-Game) | C | A game written in C. |
 
 ### Other Repositories
 
