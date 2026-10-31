@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="t d">
+  <title id="t">Dibbo Adhikary</title>
+  <desc id="d">Computer Science and Engineering student at KUET. Hardware, algorithms and AI.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="0.55" stop-color="#0f2233"/>
+      <stop offset="1" stop-color="#12344a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.82" cy="0.35" r="0.55">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <rect width="1200" height="280" fill="url(#grid)"/>
+  <rect width="1200" height="280" fill="url(#glow)"/>
+
+  <!-- circuit traces (right side) -->
+  <g fill="none" stroke="#38bdf8" stroke-opacity="0.5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M700 60H790V110H880V60H990V150H1080"/>
+    <path d="M740 220H830V170H920V220H1010V190H1120"/>
+    <path d="M860 20V60M1000 260V190"/>
+  </g>
+  <g fill="#0b1220" stroke="url(#accent)" stroke-width="2">
+    <circle cx="790" cy="110" r="5"/>
+    <circle cx="880" cy="60" r="5"/>
+    <circle cx="990" cy="150" r="5"/>
+    <circle cx="830" cy="170" r="5"/>
+    <circle cx="920" cy="220" r="5"/>
+    <circle cx="1010" cy="190" r="5"/>
+  </g>
+  <g fill="url(#accent)">
+    <circle cx="1080" cy="150" r="7"/>
+    <circle cx="1120" cy="190" r="7"/>
+    <circle cx="700" cy="60" r="4"/>
+    <circle cx="740" cy="220" r="4"/>
+  </g>
+
+  <!-- chip outline -->
+  <g fill="none" stroke="#818cf8" stroke-opacity="0.55" stroke-width="2">
+    <rect x="1045" y="48" width="84" height="64" rx="8"/>
+    <path d="M1065 48V38M1087 48V38M1109 48V38M1065 112V122M1087 112V122M1109 112V122" stroke-linecap="round"/>
+  </g>
+  <text x="1087" y="88" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" fill="#c7d2fe" fill-opacity="0.85">28-bit</text>
+
+  <!-- text -->
+  <rect x="64" y="64" width="56" height="4" rx="2" fill="url(#accent)"/>
+  <text x="64" y="132" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="64" font-weight="700" fill="#f8fafc" letter-spacing="-1">Dibbo Adhikary</text>
+  <text x="66" y="172" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="24" fill="#cbd5e1">Computer Science &amp; Engineering Student</text>
+  <text x="66" y="204" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="18" fill="#94a3b8">Khulna University of Engineering &amp; Technology (KUET)</text>
+
+  <!-- focus chips -->
+  <g font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" text-anchor="middle">
+    <rect x="66" y="226" width="104" height="30" rx="15" fill="#38bdf8" fill-opacity="0.14" stroke="#38bdf8" stroke-opacity="0.6"/>
+    <text x="118" y="246" fill="#7dd3fc">Hardware</text>
+    <rect x="182" y="226" width="112" height="30" rx="15" fill="#818cf8" fill-opacity="0.14" stroke="#818cf8" stroke-opacity="0.6"/>
+    <text x="238" y="246" fill="#a5b4fc">Algorithms</text>
+    <rect x="306" y="226" width="62" height="30" rx="15" fill="#34d399" fill-opacity="0.14" stroke="#34d399" stroke-opacity="0.6"/>
+    <text x="337" y="246" fill="#6ee7b7">AI</text>
+  </g>
+</svg>
