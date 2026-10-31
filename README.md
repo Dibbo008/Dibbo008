@@ -4,9 +4,9 @@
 
 <br/>
 
-<a href="mailto:dibboadhikary008@gmail.com"><img src="https://img.shields.io/badge/Email-dibboadhikary008%40gmail.com-0f2233?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/dibbo-adhikary-589442323"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/Dibbo008?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-0f2233?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+<a href="mailto:dibboadhikary008@gmail.com"><img src="https://img.shields.io/badge/Email-dibboadhikary008%40gmail.com-0f2233?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/dibbo-adhikary-589442323"><img src="https://img.shields.io/badge/LinkedIn-Dibbo%20Adhikary-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Dibbo008?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-0f2233?style=flat-square&logo=github&logoColor=white" alt="Repositories"/></a>
 
 </div>
 
@@ -14,11 +14,11 @@
 
 ## About
 
-I am a Computer Science and Engineering student at Khulna University of Engineering & Technology (KUET). My work spans the computing stack: digital logic on FPGAs, graph algorithms and numerical methods in C++, and desktop and web applications that use the Google Gemini API.
+I am a Computer Science and Engineering student at Khulna University of Engineering & Technology (KUET). I build systems at several levels of the stack: digital logic on FPGAs, graph algorithms and numerical methods in C++, and desktop and web applications that use the Google Gemini API.
 
-Each repository is a working project built to understand a concept properly, with the source open to read.
+Each repository is a working project built to understand a concept thoroughly, with the source open to read.
 
-| Area | What I work on |
+| Area | Focus |
 | :-- | :-- |
 | Hardware and Digital Design | FPGA development, custom CPU architecture, Verilog and VHDL |
 | Algorithms and Numerical Methods | Graph algorithms, root finding, linear systems, interpolation, regression, integration |
@@ -29,11 +29,11 @@ Each repository is a working project built to understand a concept properly, wit
 
 | Category | Technologies |
 | :-- | :-- |
-| Languages | ![C](https://img.shields.io/badge/C-0f2233?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-0f2233?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-0f2233?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-0f2233?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-0f2233?style=flat-square&logo=javascript&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-0f2233?style=flat-square) ![VHDL](https://img.shields.io/badge/VHDL-0f2233?style=flat-square) |
-| Desktop | ![JavaFX](https://img.shields.io/badge/JavaFX_21-0f2233?style=flat-square) ![Maven](https://img.shields.io/badge/Maven-0f2233?style=flat-square&logo=apachemaven&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-0f2233?style=flat-square&logo=sqlite&logoColor=white) ![Jackson](https://img.shields.io/badge/Jackson-0f2233?style=flat-square) ![PDFBox](https://img.shields.io/badge/Apache_PDFBox-0f2233?style=flat-square) |
-| Web | ![React](https://img.shields.io/badge/React-0f2233?style=flat-square&logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-0f2233?style=flat-square&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-0f2233?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-0f2233?style=flat-square&logo=express&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-0f2233?style=flat-square&logo=netlify&logoColor=white) |
-| Hardware Tools | ![Vivado](https://img.shields.io/badge/Vivado-0f2233?style=flat-square) ![Quartus](https://img.shields.io/badge/Quartus-0f2233?style=flat-square) ![ModelSim](https://img.shields.io/badge/ModelSim-0f2233?style=flat-square) ![Logisim](https://img.shields.io/badge/Logisim-0f2233?style=flat-square) |
-| AI | ![Gemini](https://img.shields.io/badge/Google_Gemini_API-0f2233?style=flat-square&logo=googlegemini&logoColor=white) |
+| Languages | C, C++, Java, Python, JavaScript, Verilog, VHDL |
+| Desktop | Java 21, JavaFX 21, Maven, SQLite (JDBC), Jackson, Apache PDFBox |
+| Web | React, Vite, Node.js, Express, Netlify |
+| Hardware Tools | Vivado, Quartus, ModelSim, Logisim |
+| AI | Google Gemini API |
 
 ## Featured Projects
 
@@ -41,13 +41,13 @@ Each repository is a working project built to understand a concept properly, wit
 
 [Repository](https://github.com/Dibbo008/CareerForge-Desktop) | Java 21, JavaFX 21, SQLite, Jackson, Apache PDFBox, Google Gemini API
 
-A JavaFX desktop application for building professional resumes and cover letters, backed by a local SQLite database and enhanced with Google Gemini. When no API key is available, or a request fails, it falls back to a local generator, so the whole app works offline.
+A JavaFX desktop application for building professional resumes and cover letters, backed by a local SQLite database and enhanced with Google Gemini. When no API key is available, or a request fails, it falls back to a local generator, so the whole application works offline.
 
 - Secure accounts with salted password hashing
 - Dynamic resume builder with live preview, Classic and Modern templates, and light and dark themes
 - AI-generated summaries and cover letters with automatic offline fallback
 - PDF and JSON export and import, and a searchable table of saved resumes
-- To The Point: a two-question wizard that maps a target role to hand-curated learning resources, with no generated links
+- Role-to-learning-resource wizard that maps a target role to hand-curated resources, with no generated links
 - Interview preparation chart and a job application tracker
 
 <details>
@@ -69,17 +69,17 @@ A JavaFX desktop application for building professional resumes and cover letters
 
 | Project | Description |
 | :-- | :-- |
-| [FPGA-Digital-Voting-Machine](https://github.com/Dibbo008/FPGA-Digital-Voting-Machine) | An electronic voting system in Verilog for the Xilinx Artix-7 (Basys 3). It authenticates voter IDs, blocks double voting with a per-voter registry, shows live counts, and announces the winner and runner-up. Includes button debouncing and a time-multiplexed 4-digit 7-segment display. |
-| [28-BIT-CPU-Design](https://github.com/Dibbo008/28-BIT-CPU-Design) | A custom 28-bit CPU with its own ALU, built as Logisim circuits. The repository includes an architecture write-up and program files for ADD, SUB, AND, OR, MUL and DIV. |
+| [FPGA-Digital-Voting-Machine](https://github.com/Dibbo008/FPGA-Digital-Voting-Machine) | Electronic voting system in Verilog for the Xilinx Artix-7 (Basys 3). Authenticates voter IDs, blocks double voting with a per-voter registry, shows live counts, and announces the winner and runner-up. Includes button debouncing and a time-multiplexed 4-digit 7-segment display. |
+| [28-BIT-CPU-Design](https://github.com/Dibbo008/28-BIT-CPU-Design) | Custom 28-bit CPU with its own ALU, built as Logisim circuits. Includes an architecture write-up and program files for ADD, SUB, AND, OR, MUL and DIV. |
 
 ### AI and Web Applications
 
 | Project | Stack | Description |
 | :-- | :-- | :-- |
-| [Zippy-AI-Assistant](https://github.com/Dibbo008/Zippy-AI-Assistant) | React, Vite, Gemini API | A dog-themed virtual assistant with voice input through the browser SpeechRecognition API. Deployed on Netlify. |
-| [PiXEE-AI-Bot](https://github.com/Dibbo008/PiXEE-AI-Bot) | React, Vite, Gemini 2.5 Flash | A creative chat companion prototype that accepts image uploads as conversation context. Deployed on Netlify. |
-| [AiZen-AI-RnC](https://github.com/Dibbo008/AiZen-AI-RnC) | JavaScript | An AI-driven web application. |
-| [Votebox-EVM](https://github.com/Dibbo008/Votebox-EVM) | JavaScript | An electronic voting machine project for the web. |
+| [Zippy-AI-Assistant](https://github.com/Dibbo008/Zippy-AI-Assistant) | React, Vite, Gemini API | Dog-themed virtual assistant with voice input through the browser SpeechRecognition API. Deployed on Netlify. |
+| [PiXEE-AI-Bot](https://github.com/Dibbo008/PiXEE-AI-Bot) | React, Vite, Gemini 2.5 Flash | Creative chat companion prototype that accepts image uploads as conversation context. Deployed on Netlify. |
+| [AiZen-AI-RnC](https://github.com/Dibbo008/AiZen-AI-RnC) | JavaScript | AI-driven web application. |
+| [Votebox-EVM](https://github.com/Dibbo008/Votebox-EVM) | JavaScript | Electronic voting machine project for the web. |
 
 ### Algorithms and Numerical Methods
 
@@ -94,7 +94,48 @@ A JavaFX desktop application for building professional resumes and cover letters
 | Project | Language | Description |
 | :-- | :-- | :-- |
 | [SDN-Network-Sim](https://github.com/Dibbo008/SDN-Network-Sim) | JavaScript | Software-defined networking simulation. |
-| [COBRA.C-Game](https://github.com/Dibbo008/COBRA.C-Game) | C | A game written in C. |
+| [COBRA.C-Game](https://github.com/Dibbo008/COBRA.C-Game) | C | Game written in C. |
+
+## GitHub Activity
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dibbo008/Dibbo008/main/profile-summary-card-output/github_dark/0-profile-details.svg"/>
+        <img src="https://raw.githubusercontent.com/Dibbo008/Dibbo008/main/profile-summary-card-output/default/0-profile-details.svg" alt="GitHub profile details" width="100%"/>
+      </picture>
+    </td>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dibbo008/Dibbo008/main/profile-summary-card-output/github_dark/3-stats.svg"/>
+        <img src="https://raw.githubusercontent.com/Dibbo008/Dibbo008/main/profile-summary-card-output/default/3-stats.svg" alt="GitHub stats" width="100%"/>
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dibbo008/Dibbo008/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
+        <img src="https://raw.githubusercontent.com/Dibbo008/Dibbo008/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="Repositories per language" width="100%"/>
+      </picture>
+    </td>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dibbo008/Dibbo008/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
+        <img src="https://raw.githubusercontent.com/Dibbo008/Dibbo008/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="Most committed languages" width="100%"/>
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dibbo008/Dibbo008/main/profile-summary-card-output/github_dark/4-productive-time.svg"/>
+        <img src="https://raw.githubusercontent.com/Dibbo008/Dibbo008/main/profile-summary-card-output/default/4-productive-time.svg" alt="Commits by time of day" width="50%"/>
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ## Education
 
@@ -108,28 +149,9 @@ Khulna University of Engineering & Technology (KUET), Khulna, Bangladesh
 - Software-defined networking and network simulation
 - Graph algorithms and numerical computation
 
-## GitHub at a Glance
-
-<div align="center">
-
-<a href="https://github.com/Dibbo008?tab=followers"><img src="https://img.shields.io/github/followers/Dibbo008?style=flat-square&label=Followers&labelColor=0f2233&color=38bdf8&logo=github&logoColor=white" alt="Followers"/></a>
-<a href="https://github.com/Dibbo008/CareerForge-Desktop/commits/main"><img src="https://img.shields.io/github/last-commit/Dibbo008/CareerForge-Desktop?style=flat-square&label=CareerForge%20last%20commit&labelColor=0f2233&color=34d399" alt="CareerForge last commit"/></a>
-<a href="https://github.com/Dibbo008/Zippy-AI-Assistant/commits/main"><img src="https://img.shields.io/github/last-commit/Dibbo008/Zippy-AI-Assistant?style=flat-square&label=Zippy%20last%20commit&labelColor=0f2233&color=34d399" alt="Zippy last commit"/></a>
-
-<br/>
-
-<img src="https://img.shields.io/github/languages/top/Dibbo008/CareerForge-Desktop?style=flat-square&label=CareerForge&labelColor=0f2233&color=f59e0b" alt="CareerForge top language"/>
-<img src="https://img.shields.io/github/languages/top/Dibbo008/FPGA-Digital-Voting-Machine?style=flat-square&label=FPGA%20Voting&labelColor=0f2233&color=f59e0b" alt="FPGA voting top language"/>
-<img src="https://img.shields.io/github/languages/top/Dibbo008/Zippy-AI-Assistant?style=flat-square&label=Zippy&labelColor=0f2233&color=f59e0b" alt="Zippy top language"/>
-
-</div>
-
----
-
-<div align="center">
+## Contact
 
 Open to collaboration on projects in algorithms, hardware design, and AI.
 
-<a href="mailto:dibboadhikary008@gmail.com"><img src="https://img.shields.io/badge/Get_in_touch-dibboadhikary008%40gmail.com-0f2233?style=flat-square&logo=gmail&logoColor=white" alt="Get in touch"/></a>
-
-</div>
+- Email: [dibboadhikary008@gmail.com](mailto:dibboadhikary008@gmail.com)
+- LinkedIn: [Dibbo Adhikary](https://www.linkedin.com/in/dibbo-adhikary-589442323)
