@@ -4,9 +4,9 @@
 
 <br/>
 
-<a href="mailto:dibboadhikary008@gmail.com"><img src="https://img.shields.io/badge/Email-dibboadhikary008%40gmail.com-0f2233?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/dibbo-adhikary-589442323"><img src="https://img.shields.io/badge/LinkedIn-Dibbo%20Adhikary-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/Dibbo008?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-0f2233?style=flat-square&logo=github&logoColor=white" alt="Repositories"/></a>
+<a href="mailto:dibboadhikary008@gmail.com"><img src="https://img.shields.io/badge/Email-dibboadhikary008%40gmail.com-0f2233?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/dibbo-adhikary-589442323"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Dibbo008?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-0f2233?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 
 </div>
 
@@ -29,11 +29,11 @@ Each repository is a working project built to understand a concept thoroughly, w
 
 | Category | Technologies |
 | :-- | :-- |
-| Languages | C, C++, Java, Python, JavaScript, Verilog, VHDL |
-| Desktop | Java 21, JavaFX 21, Maven, SQLite (JDBC), Jackson, Apache PDFBox |
-| Web | React, Vite, Node.js, Express, Netlify |
-| Hardware Tools | Vivado, Quartus, ModelSim, Logisim |
-| AI | Google Gemini API |
+| Languages | ![C](https://img.shields.io/badge/C-0f2233?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-0f2233?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-0f2233?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-0f2233?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-0f2233?style=flat-square&logo=javascript&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-0f2233?style=flat-square) ![VHDL](https://img.shields.io/badge/VHDL-0f2233?style=flat-square) |
+| Desktop | ![JavaFX](https://img.shields.io/badge/JavaFX_21-0f2233?style=flat-square) ![Maven](https://img.shields.io/badge/Maven-0f2233?style=flat-square&logo=apachemaven&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-0f2233?style=flat-square&logo=sqlite&logoColor=white) ![Jackson](https://img.shields.io/badge/Jackson-0f2233?style=flat-square) ![PDFBox](https://img.shields.io/badge/Apache_PDFBox-0f2233?style=flat-square) |
+| Web | ![React](https://img.shields.io/badge/React-0f2233?style=flat-square&logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-0f2233?style=flat-square&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-0f2233?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-0f2233?style=flat-square&logo=express&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-0f2233?style=flat-square&logo=netlify&logoColor=white) |
+| Hardware Tools | ![Vivado](https://img.shields.io/badge/Vivado-0f2233?style=flat-square) ![Quartus](https://img.shields.io/badge/Quartus-0f2233?style=flat-square) ![ModelSim](https://img.shields.io/badge/ModelSim-0f2233?style=flat-square) ![Logisim](https://img.shields.io/badge/Logisim-0f2233?style=flat-square) |
+| AI | ![Gemini](https://img.shields.io/badge/Google_Gemini_API-0f2233?style=flat-square&logo=googlegemini&logoColor=white) |
 
 ## Featured Projects
 
@@ -98,44 +98,20 @@ A JavaFX desktop application for building professional resumes and cover letters
 
 ## GitHub Activity
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dibbo008/Dibbo008/main/profile-summary-card-output/github_dark/0-profile-details.svg"/>
-        <img src="https://raw.githubusercontent.com/Dibbo008/Dibbo008/main/profile-summary-card-output/default/0-profile-details.svg" alt="GitHub profile details" width="100%"/>
-      </picture>
-    </td>
-    <td width="50%" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dibbo008/Dibbo008/main/profile-summary-card-output/github_dark/3-stats.svg"/>
-        <img src="https://raw.githubusercontent.com/Dibbo008/Dibbo008/main/profile-summary-card-output/default/3-stats.svg" alt="GitHub stats" width="100%"/>
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dibbo008/Dibbo008/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
-        <img src="https://raw.githubusercontent.com/Dibbo008/Dibbo008/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="Repositories per language" width="100%"/>
-      </picture>
-    </td>
-    <td width="50%" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dibbo008/Dibbo008/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
-        <img src="https://raw.githubusercontent.com/Dibbo008/Dibbo008/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="Most committed languages" width="100%"/>
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dibbo008/Dibbo008/main/profile-summary-card-output/github_dark/4-productive-time.svg"/>
-        <img src="https://raw.githubusercontent.com/Dibbo008/Dibbo008/main/profile-summary-card-output/default/4-productive-time.svg" alt="Commits by time of day" width="50%"/>
-      </picture>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<a href="https://github.com/Dibbo008?tab=followers"><img src="https://img.shields.io/github/followers/Dibbo008?style=flat-square&label=Followers&labelColor=0f2233&color=38bdf8&logo=github&logoColor=white" alt="Followers"/></a>
+<a href="https://github.com/Dibbo008/CareerForge-Desktop/commits/main"><img src="https://img.shields.io/github/commit-activity/y/Dibbo008/CareerForge-Desktop?style=flat-square&label=CareerForge%20commits%20per%20year&labelColor=0f2233&color=818cf8" alt="CareerForge commit activity"/></a>
+<a href="https://github.com/Dibbo008/CareerForge-Desktop/commits/main"><img src="https://img.shields.io/github/last-commit/Dibbo008/CareerForge-Desktop?style=flat-square&label=CareerForge%20last%20commit&labelColor=0f2233&color=34d399" alt="CareerForge last commit"/></a>
+<a href="https://github.com/Dibbo008/Zippy-AI-Assistant/commits/main"><img src="https://img.shields.io/github/last-commit/Dibbo008/Zippy-AI-Assistant?style=flat-square&label=Zippy%20last%20commit&labelColor=0f2233&color=34d399" alt="Zippy last commit"/></a>
+
+<br/>
+
+<img src="https://img.shields.io/github/languages/top/Dibbo008/CareerForge-Desktop?style=flat-square&label=CareerForge&labelColor=0f2233&color=f59e0b" alt="CareerForge top language"/>
+<img src="https://img.shields.io/github/languages/top/Dibbo008/FPGA-Digital-Voting-Machine?style=flat-square&label=FPGA%20Voting%20Machine&labelColor=0f2233&color=f59e0b" alt="FPGA voting machine top language"/>
+<img src="https://img.shields.io/github/languages/top/Dibbo008/Zippy-AI-Assistant?style=flat-square&label=Zippy&labelColor=0f2233&color=f59e0b" alt="Zippy top language"/>
+
+</div>
 
 ## Education
 
@@ -149,9 +125,12 @@ Khulna University of Engineering & Technology (KUET), Khulna, Bangladesh
 - Software-defined networking and network simulation
 - Graph algorithms and numerical computation
 
-## Contact
+---
+
+<div align="center">
 
 Open to collaboration on projects in algorithms, hardware design, and AI.
 
-- Email: [dibboadhikary008@gmail.com](mailto:dibboadhikary008@gmail.com)
-- LinkedIn: [Dibbo Adhikary](https://www.linkedin.com/in/dibbo-adhikary-589442323)
+<a href="mailto:dibboadhikary008@gmail.com"><img src="https://img.shields.io/badge/Get_in_touch-dibboadhikary008%40gmail.com-0f2233?style=flat-square&logo=gmail&logoColor=white" alt="Get in touch"/></a>
+
+</div>
