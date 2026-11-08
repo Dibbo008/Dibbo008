@@ -14,15 +14,15 @@
 
 ## About
 
-I am a Computer Science and Engineering student at Khulna University of Engineering & Technology (KUET). I build systems at several levels of the stack: digital logic on FPGAs, graph algorithms and numerical methods in C++, and desktop and web applications that use the Google Gemini API.
+Computer Science and Engineering student at **Khulna University of Engineering & Technology (KUET)**, working across the stack: digital logic on FPGAs, graph algorithms and numerical methods in C++, and desktop and web applications integrated with the Google Gemini API.
 
-Each repository is a working project built to understand a concept thoroughly, with the source open to read.
+Every repository here is a complete, working project built to understand a concept in depth, with the source open to read.
 
 | Area | Focus |
 | :-- | :-- |
-| Hardware and Digital Design | FPGA development, custom CPU architecture, Verilog and VHDL |
+| Hardware and Digital Design | FPGA development, custom CPU architecture, Verilog, VHDL |
 | Algorithms and Numerical Methods | Graph algorithms, root finding, linear systems, interpolation, regression, integration |
-| Artificial Intelligence | AI assistants and chatbots built on the Google Gemini API |
+| Artificial Intelligence | Assistants and chatbots built on the Google Gemini API |
 | Software Development | JavaFX desktop applications, React web applications, game programming in C |
 
 ## Technical Stack
@@ -41,14 +41,14 @@ Each repository is a working project built to understand a concept thoroughly, w
 
 [Repository](https://github.com/Dibbo008/CareerForge-Desktop) | Java 21, JavaFX 21, SQLite, Jackson, Apache PDFBox, Google Gemini API
 
-A JavaFX desktop application for building professional resumes and cover letters, backed by a local SQLite database and enhanced with Google Gemini. When no API key is available, or a request fails, it falls back to a local generator, so the whole application works offline.
+A JavaFX desktop application for creating professional resumes and cover letters, backed by a local SQLite database and enhanced with Google Gemini. If no API key is available or a request fails, it falls back to a local generator, so the application remains fully functional offline.
 
-- Secure accounts with salted password hashing
-- Dynamic resume builder with live preview, Classic and Modern templates, and light and dark themes
+- Secure user accounts with salted password hashing
+- Resume builder with live preview, Classic and Modern templates, and light and dark themes
 - AI-generated summaries and cover letters with automatic offline fallback
-- PDF and JSON export and import, and a searchable table of saved resumes
-- Role-to-learning-resource wizard that maps a target role to hand-curated resources, with no generated links
-- Interview preparation chart and a job application tracker
+- PDF and JSON export and import, plus a searchable table of saved resumes
+- Role-to-learning-resource wizard using hand-curated resources (no generated links)
+- Interview preparation chart and job application tracker
 
 <details>
 <summary>Engineering details</summary>
@@ -69,49 +69,32 @@ A JavaFX desktop application for building professional resumes and cover letters
 
 | Project | Description |
 | :-- | :-- |
-| [FPGA-Digital-Voting-Machine](https://github.com/Dibbo008/FPGA-Digital-Voting-Machine) | Electronic voting system in Verilog for the Xilinx Artix-7 (Basys 3). Authenticates voter IDs, blocks double voting with a per-voter registry, shows live counts, and announces the winner and runner-up. Includes button debouncing and a time-multiplexed 4-digit 7-segment display. |
+| [FPGA-Digital-Voting-Machine](https://github.com/Dibbo008/FPGA-Digital-Voting-Machine) | Electronic voting system in Verilog for the Xilinx Artix-7 (Basys 3). Authenticates voter IDs, blocks double voting with a per-voter registry, displays live counts, and announces the winner and runner-up. Includes button debouncing and a time-multiplexed 4-digit 7-segment display. |
 | [28-BIT-CPU-Design](https://github.com/Dibbo008/28-BIT-CPU-Design) | Custom 28-bit CPU with its own ALU, built as Logisim circuits. Includes an architecture write-up and program files for ADD, SUB, AND, OR, MUL and DIV. |
-
-### AI and Web Applications
-
-| Project | Stack | Description |
-| :-- | :-- | :-- |
-| [Zippy-AI-Assistant](https://github.com/Dibbo008/Zippy-AI-Assistant) | React, Vite, Gemini API | Dog-themed virtual assistant with voice input through the browser SpeechRecognition API. Deployed on Netlify. |
-| [PiXEE-AI-Bot](https://github.com/Dibbo008/PiXEE-AI-Bot) | React, Vite, Gemini 2.5 Flash | Creative chat companion prototype that accepts image uploads as conversation context. Deployed on Netlify. |
-| [AiZen-AI-RnC](https://github.com/Dibbo008/AiZen-AI-RnC) | JavaScript | AI-driven web application. |
-| [Votebox-EVM](https://github.com/Dibbo008/Votebox-EVM) | JavaScript | Electronic voting machine project for the web. |
 
 ### Algorithms and Numerical Methods
 
 | Project | Language | Contents |
 | :-- | :-- | :-- |
-| [Advance-Algorithms](https://github.com/Dibbo008/Advance-Algorithms) | C++ | Shortest paths: Dijkstra, Bellman-Ford, Floyd-Warshall, Johnson. Spanning trees: Kruskal, Prim. |
-| [Numerical-Theories](https://github.com/Dibbo008/Numerical-Theories) | C++ | Root finding (Bisection, False-Position, Newton-Raphson, Secant), linear systems (Gauss Elimination, Gauss-Jordan), LU decomposition, matrix inversion, Newton's interpolation, linear, power and polynomial regression, Simpson's rules, Runge-Kutta 4th order. |
-| [Epitrack-DSA](https://github.com/Dibbo008/Epitrack-DSA) | C++ | Data structures and algorithms practice. |
+| [Advance-Algorithms](https://github.com/Dibbo008/Advance-Algorithms) | C++ | **Shortest paths:** Dijkstra, Bellman-Ford, Floyd-Warshall, Johnson. **Spanning trees:** Kruskal, Prim. |
+| [Numerical-Theories](https://github.com/Dibbo008/Numerical-Theories) | C++ | **Root finding:** Bisection, False-Position, Newton-Raphson, Secant. **Linear systems:** Gauss Elimination, Gauss-Jordan, LU decomposition, matrix inversion. **Interpolation:** Newton's methods. **Regression:** linear, power, polynomial. **Integration and ODEs:** Simpson's rules, Runge-Kutta 4th order. |
 
-### Other
+### AI and Web Applications
 
-| Project | Language | Description |
+| Project | Stack | Description |
 | :-- | :-- | :-- |
-| [SDN-Network-Sim](https://github.com/Dibbo008/SDN-Network-Sim) | JavaScript | Software-defined networking simulation. |
-| [COBRA.C-Game](https://github.com/Dibbo008/COBRA.C-Game) | C | Game written in C. |
+| [Zippy-AI-Assistant](https://github.com/Dibbo008/Zippy-AI-Assistant) | React, Vite, Gemini API | Dog-themed virtual assistant with voice input via the browser SpeechRecognition API. Deployed on Netlify. |
+| [PiXEE-AI-Bot](https://github.com/Dibbo008/PiXEE-AI-Bot) | React, Vite, Gemini 2.5 Flash | Creative chat companion prototype that accepts image uploads as conversation context. Deployed on Netlify. |
 
-## GitHub Activity
+## More Repositories
 
-<div align="center">
-
-<a href="https://github.com/Dibbo008?tab=followers"><img src="https://img.shields.io/github/followers/Dibbo008?style=flat-square&label=Followers&labelColor=0f2233&color=38bdf8&logo=github&logoColor=white" alt="Followers"/></a>
-<a href="https://github.com/Dibbo008/CareerForge-Desktop/commits/main"><img src="https://img.shields.io/github/commit-activity/y/Dibbo008/CareerForge-Desktop?style=flat-square&label=CareerForge%20commits%20per%20year&labelColor=0f2233&color=818cf8" alt="CareerForge commit activity"/></a>
-<a href="https://github.com/Dibbo008/CareerForge-Desktop/commits/main"><img src="https://img.shields.io/github/last-commit/Dibbo008/CareerForge-Desktop?style=flat-square&label=CareerForge%20last%20commit&labelColor=0f2233&color=34d399" alt="CareerForge last commit"/></a>
-<a href="https://github.com/Dibbo008/Zippy-AI-Assistant/commits/main"><img src="https://img.shields.io/github/last-commit/Dibbo008/Zippy-AI-Assistant?style=flat-square&label=Zippy%20last%20commit&labelColor=0f2233&color=34d399" alt="Zippy last commit"/></a>
-
-<br/>
-
-<img src="https://img.shields.io/github/languages/top/Dibbo008/CareerForge-Desktop?style=flat-square&label=CareerForge&labelColor=0f2233&color=f59e0b" alt="CareerForge top language"/>
-<img src="https://img.shields.io/github/languages/top/Dibbo008/FPGA-Digital-Voting-Machine?style=flat-square&label=FPGA%20Voting%20Machine&labelColor=0f2233&color=f59e0b" alt="FPGA voting machine top language"/>
-<img src="https://img.shields.io/github/languages/top/Dibbo008/Zippy-AI-Assistant?style=flat-square&label=Zippy&labelColor=0f2233&color=f59e0b" alt="Zippy top language"/>
-
-</div>
+| Repository | Language | Description |
+| :-- | :-- | :-- |
+| [AiZen-AI-RnC](https://github.com/Dibbo008/AiZen-AI-RnC) | JavaScript | AI-driven web application |
+| [Votebox-EVM](https://github.com/Dibbo008/Votebox-EVM) | JavaScript | Web-based electronic voting machine |
+| [SDN-Network-Sim](https://github.com/Dibbo008/SDN-Network-Sim) | JavaScript | Software-defined networking simulation |
+| [Epitrack-DSA](https://github.com/Dibbo008/Epitrack-DSA) | C++ | Data structures and algorithms practice |
+| [COBRA.C-Game](https://github.com/Dibbo008/COBRA.C-Game) | C | Game written in C |
 
 ## Education
 
